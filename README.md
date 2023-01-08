@@ -4,7 +4,7 @@
 ```sh
 $ invidious-vlc
 
-Play a video from Invidious in VLC. Requires vlc.exe to be available.
+Play a video from Invidious in VLC. Requires vlc in PATH.
 
-Usage: vlc-invidious-script [search query]
+Usage: invidious-vlc [search query]
 ```
