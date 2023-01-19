@@ -3,9 +3,9 @@
 ▶ Download and play YouTube videos from the command line.
 
 ```sh
-$ iv
+$ ivcl
 
 Play a video from Invidious in VLC. Requires vlc in PATH.
 
-Usage: invidious-vlc [search query]
+Usage: ivlc [search query]
 ```
