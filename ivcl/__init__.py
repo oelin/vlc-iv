@@ -1,7 +1,7 @@
 """
 Play a YouTube video from Invidious in VLC. Requires vlc in PATH.
 
-Usage: iv [search query]
+Usage: ivlc [search query]
 """
 
 
