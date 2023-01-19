@@ -1,4 +1,4 @@
-# IV
+# IVLC
 
 ▶ Download and play YouTube videos from the command line.
 
